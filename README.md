@@ -16,6 +16,31 @@ Develop small projects integrating Node.js with Typescript and document all impo
 
 ## 🤓 Typescript 101
 
+### Syntax + Features:
+
+[] What is an interface?
+[] What is the sintax for defining an interface?
+
+Interface: Interfaces in typescript are used to define the structure of an object.
+
+```typescript
+interface User {
+  id: number;
+  name: string;
+  isAdmin?: boolean;
+}
+```
+
+Common erors: Typos in properties and calling functions with the incorrect order of arguments.
+
+### Design Patterns with TS:
+
+[] How we use interfaces to write reusable code?
+
+```typescript
+
+```
+
 ## 📝 License
 
 Copyright © 2021 [Leandro Machado](https://github.com/leandrofahur).<br />
