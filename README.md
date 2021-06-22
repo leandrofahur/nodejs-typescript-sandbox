@@ -18,8 +18,10 @@ Develop small projects integrating Node.js with Typescript and document all impo
 
 ### Syntax + Features:
 
-[] What is an interface?
-[] What is the sintax for defining an interface?
+<ul type="square">
+    <li>What is an interface?</li>
+    <li>What is the sintax for defining an interface?</li>
+</ul>
 
 Interface: Interfaces in typescript are used to define the structure of an object.
 
@@ -31,15 +33,22 @@ interface User {
 }
 ```
 
-Common erors: Typos in properties and calling functions with the incorrect order of arguments.
+Common errors: Typos in properties and calling functions with the incorrect order of arguments.
 
 ### Design Patterns with TS:
 
-[] How we use interfaces to write reusable code?
-
-```typescript
-
-```
+<ul type="square">
+    <li>How we use interfaces to write reusable code?</li>
+    <ul>
+    <li>understanding basic types</li>
+    <li>function typing + annotations</li>
+    <li>type definition files</li>
+    <li>array in TS</li>
+    <li>module systems</li>
+    <li>classes + refresher of OOP</li>
+    <li>Projects</li>
+    </ul>
+</ul>
 
 ## 📝 License
 
