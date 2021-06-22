@@ -1,0 +1,15 @@
+{
+  "name": "nodejs-typescript-sandbox",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/leandrofahur/nodejs-typescript-sandbox.git",
+  "author": "Leandro <fahurleandro@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "ts-node-dev": "^1.1.6",
+    "typescript": "^4.3.4"
+  },
+  "scripts": {
+    "dev": "ts-node-dev --respawn --transpile-only src/index.ts"
+  }
+}

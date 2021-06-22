@@ -18,5 +18,5 @@ Develop small projects integrating Node.js with Typescript and document all impo
 
 ## 📝 License
 
-Copyright © 2021 [Leandro Machado & Guilherme Eckert](https://github.com/leandrofahur).<br />
+Copyright © 2021 [Leandro Machado](https://github.com/leandrofahur).<br />
 This project is [MIT](LICENSE) licensed.
