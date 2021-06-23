@@ -10,13 +10,17 @@
 <img alt="Medium" src="https://img.shields.io/badge/-Medium-333333?style=for-the-badge&logo=Medium&logoColor=white=https://medium.com/@leandrofahur_" />
 </p>
 
+---
+
 ## 🎯 Objective
 
 Develop small projects integrating Node.js with Typescript and document all important features.
 
+---
+
 ## 🤓 Typescript 101
 
-### Syntax + Features:
+**Syntax + Features:**
 
 <ul type="square">
     <li>What is an interface?</li>
@@ -35,7 +39,7 @@ interface User {
 
 Common errors: Typos in properties and calling functions with the incorrect order of arguments.
 
-### Design Patterns with TS:
+**Design Patterns with TS:**
 
 <ul type="square">
     <li>How we use interfaces to write reusable code?</li>
@@ -49,6 +53,16 @@ Common errors: Typos in properties and calling functions with the incorrect orde
     <li>Projects</li>
     </ul>
 </ul>
+
+In a normal project we use types **EVERYWHERE!!!**
+
+Type annotation is a code we add to tell typescript what type of value a variable will refer to. (We tell TS)
+
+Type inference will try to figure it out automatically what type of value a variable holds. (TS figure it out)
+
+Interfaces + Classes = How we get really strong code reuse in TS. Which is very important!!!
+
+---
 
 ## 📝 License
 
